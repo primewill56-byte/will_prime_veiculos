@@ -1,0 +1,5 @@
+- [x] Recreate the uploaded Will Prime site with a realistic badge-free gold car and working headlights.
+- [x] Correct the Google review destination and add the supplied testimonials.
+- [x] Preserve inventory and secure administration with Cloud storage.
+- [ ] Verify authenticated inventory editing — blocked by missing owner account and admin role.
+- [x] Verify public mobile and desktop flows; report missing old records and domain cutover.
